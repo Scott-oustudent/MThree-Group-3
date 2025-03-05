@@ -27,5 +27,5 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      name: 💬 Send Message to Slack 🚀
+      # name: 💬 Send Message to Slack 🚀
       uses: archive/github-actions-slack@v2.10.1
