@@ -8,7 +8,7 @@
 | Thomas E | Quantominal | Thomas Edmondson | thomas.edmondson@ou.ac.uk |
 | Tom T | TomXX200 | Tom.T | tomturnuk@gmail.com |
 | JC | JCP12 | JC | jc-poh@hotmail.com |
-| Anna | | | durmowiczanna@gmail.com |
+| Anna | Ania | Anna | durmowiczanna@gmail.com |
 
 ## How to create an issue on GitHub
 Follow These Steps:
