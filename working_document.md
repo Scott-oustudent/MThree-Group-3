@@ -10,6 +10,8 @@ This section is to make everyone aware of the running order on the day. First 2 
 | _name_ | _Content_ | _Time_ |
 | _JC_ | _Live Intro_ | _30s_ |
 | _Scott_ | _Video on Accessability and Community outreach_ | _2 mins_ |
+| _Maria_ | _Live section Security technologies_ | _2 mins_ |
+| _Thomas T_ | _Video on Effiency technologies_ | _2 mins_ |
 | _JC_ | _Live Section on Attracting new customers + diversity_ | _1 min_ |
 
 
