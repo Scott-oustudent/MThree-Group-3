@@ -10,7 +10,7 @@ This section is to make everyone aware of the running order on the day. First 2 
 | _name_ | _Content_ | _Time_ |
 | _JC_ | _Live Intro_ | _30s_ |
 | _Scott_ | _Video on Accessability_ | _2 mins_ |
-| _JC_ | _Live Section on Attracting new customers + diversity _ | _1 min_ |
+| _JC_ | _Live Section on Attracting new customers + diversity_ | _1 min_ |
 
 
 ## Q&A
