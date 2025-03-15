@@ -15,7 +15,7 @@ This section is to make everyone aware of the running order on the day. First 2 
 | _Maria_ | _Live section on Security technologies_ | _2 mins_ |
 | _Thomas T_ | _Video on Effiency technologies_ | _2 mins_ |
 | _Anna_ | _x_ | _2 mins_ |
-| _x_ | _Closing statements_ | _30s_ |
+| _Maria_ | _Closing statements_ | _30s_ |
 
 
 
