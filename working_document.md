@@ -8,7 +8,7 @@ This section is to make everyone aware of the running order on the day. First 2 
 | Assigned to | What are they Presenting | Time Allocated |
 |---|---|---|
 | _name_ | _Content_ | _Time_ |
-| _JC_ | _Live Intro_ | _30s_ |
+| _JC_ | _Live intro_ | _30s_ |
 | _Scott_ | _Intro video_ | _30s_ |
 | _JC_ | _Live Section on Attracting new customers + diversity_ | _1 min 30s_ |
 | _Thomas E_ | _Section (Live/Video) on retaining customers_ | _2 mins_ |
