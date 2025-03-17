@@ -5,7 +5,6 @@
 |---|---|---|---|
 | Scott | Scott-OUstudent | Scott Harvey-Whittle | scott.harveywhittle@ou.ac.uk |
 | Maria | ubisiko | Maria | mariagracia93@hotmail.com |
-| Thomas E | Quantominal | Thomas Edmondson | thomas.edmondson@ou.ac.uk |
 | Tom T | TomXX200 | Tom.T | tomturnuk@gmail.com |
 | JC | JCP12 | JC | jc-poh@hotmail.com |
 | Anna | Ania | Anna | durmowiczanna@gmail.com |
