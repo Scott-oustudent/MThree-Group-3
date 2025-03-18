@@ -25,4 +25,4 @@ Thank you
 Scott Harvey-Whittle<br>
 Open University Student<br>
 Studying: BSc (Hons) Computing and IT<br>
-(www.open.ac.uk)[https://www.open.ac.uk/]
+[www.open.ac.uk](https://www.open.ac.uk/)
