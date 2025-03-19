@@ -10,12 +10,12 @@ This section is to make everyone aware of the running order on the day. First 2 
 | _name_ | _Content_ | _Time_ |
 | _JC_ | _Live intro_ | _30s_ |
 | _Scott_ | _Intro video_ | _30s_ |
-| _JC_ | _Live Section on attracting new customers + diversity_ | _1 min 30s_ |
-| _JC_ | _Live Section on customer engagement and enhancing experience_ | _2 mins_ |
-| _Thomas T_ | _Video on Effiency technologies_ | _2 mins_ |
+| _JC_ | _Live Section on attracting new customers etc._ | _2 min 30s_ |
+| _Scott_ | _Video on Accessability_ | _1 min_ |
+| _JC_ | _Live Section on talent diversity_ | _1 min_ |
+| _Maria_ | _Live section on Efficiency technologies_ | _1 min 30s_ |
 | _Maria_ | _Live section on Security technologies_ | _1 min 30s_ |
-| _Scott_ | _Video on Accessability and Community outreach_ | _2 mins_ |
-| _Anna_ | _x_ | _2 mins_ |
+| _Scott_ | _Video on community outreach_ | _2 mins_ |
 | _Maria_ | _Closing statements_ | _30s_ |
 
 
