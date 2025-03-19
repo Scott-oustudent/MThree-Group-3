@@ -14,6 +14,11 @@ However, due to unforseen circumstances the team ran behind on the initial plan.
 
 As the Reposotory Owner, I would like to thank the Open Univeristy Careers and Employability Service for giving me the great opertunities with working with our partners (mthree) and also for giving me the great experiance of working with a fantastic group of students. 
 
+## Team
+Maria - Computing Student
+JC - Computing Student
+Scott - Computing Student
+
 ## Contributions
 Please note that this repository will not be open for contributions as this project will not require further development. 
 
